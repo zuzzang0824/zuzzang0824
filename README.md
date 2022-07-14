@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/AdobeIllustrator-#FF9A00?style=flat-square&AdobeIllustrator&logoColor=#FF9A00" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-<img src="https://img.shields.io/badge/AdobeIllustrator-white?style=flat-square&logo=VirusTotal&logoColor=#02A9FF" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/Adobe Illustrator-white?style=flat-square&logo=Adobe Illustrator&logoColor=#02A9FF" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
