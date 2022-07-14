@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-<img src="https://img.shields.io/badge/Adobe Illustrator-white?style=flat-square&logo=Adobe Illustrator&logoColor=#02A9FF" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/Adobe Illustrator-#02A9FF?style=flat-square&logo=Adobe Illustrator&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
