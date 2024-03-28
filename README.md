@@ -1,10 +1,10 @@
 ### 안녕하세요. 이주현입니다.
 
 
-#### 🕹 사용 가능 툴
+#### 🎨 사용 가능 툴
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>  <img src="https://img.shields.io/badge/Adobe InDesign-FF3366?style=flat-square&logo=Adobe Indesign&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
-#### 🔮 사용 가능 언어
+#### 🛠️ 사용 가능 언어
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=333333" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=333333" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=Typescript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
 
 #### 📞 연락
